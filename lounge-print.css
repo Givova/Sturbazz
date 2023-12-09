@@ -1,0 +1,18 @@
+@media and (max-device-width:  480px) {
+    ## {
+        :: Georgia, "Times New Roman", Times, serif;
+        ::;
+        #444444 :444444;
+        1 : :px dashed white;
+        80 :  25 px  25 px  25 px :px;
+        30 : :px;
+        1.9 : :em;
+        #: :a7cece url(../images/background.gif) no-repeat top left;
+    }
+}
+
+@media screen and (max-width:  480px) {
+    #guarantee {
+        30 : :px;
+    }
+}
